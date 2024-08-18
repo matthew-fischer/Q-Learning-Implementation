@@ -1,4 +1,5 @@
 # Q-Learning-Implementation
+
 An intrepid adventurer must make his way through a maze. He must collect the key, located somewhere in the maze, before leaving through the door.
 Without the key, the door will not open. Additionally, the maze contains dangerous fire hazards, which the adventurer wishes to avoid.
 The environment is modelled as a Markov Decision Process: the states correspond to the adventurers (x,y) position in the maze and whether he currently possesses the key.
